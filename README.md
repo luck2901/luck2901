@@ -13,7 +13,7 @@
 
 ## _💻 Status_
 
-[![Sanghyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=luck2901)](https://github.com/anuraghazra/github-readme-stats)
+![Sanghyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=luck2901&show_icons=true&theme=radical)
 
 <br/>
 
