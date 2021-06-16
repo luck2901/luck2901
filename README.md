@@ -2,7 +2,7 @@
 ## _💻Tech_
 
 ###### 👍 A++ 
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></a> <img src="https://img.shields.io/badge/SpringBoot-00599C?style=flat-square&logo=SpringBoot&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></a> <img src="https://img.shields.io/badge/SpringBoot-ABF200?style=flat-square&logo=SpringBoot&logoColor=white"/></a> <img src="https://img.shields.io/badge/React-00D8FF?style=flat-square&logo=React&logoColor=white"/></a>
 
 
 [![Sanghyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=luck2901)](https://github.com/anuraghazra/github-readme-stats)
