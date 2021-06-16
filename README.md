@@ -1,9 +1,11 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&text=Sanghyeon&fontSize=90)
+## _💻Tech_
 
-<!--
-**luck2901/luck2901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###### 👍 A++ 
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></a>&nbsp 
 
-Here are some ideas to get you started:
+
+[![Sanghyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=luck2901)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
