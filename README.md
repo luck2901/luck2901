@@ -9,8 +9,6 @@
 
 <br/> -->
 
-<br/>
-
 ## _💻 Status_
 
 ![Sanghyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=luck2901&show_icons=true&theme=radical)
