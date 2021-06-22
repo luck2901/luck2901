@@ -11,7 +11,7 @@
 
 ## _💻 Status_
 
-![Sanghyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=luck2901&show_icons=true&theme=radical)
+![Sanghyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=luck2901&show_icons=true&theme=tokyonight)
 
 ## _🏆 Top Langs_
 
