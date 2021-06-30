@@ -15,7 +15,8 @@
 
 ## _🏆 Top Langs_
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luck2901&layout=compact)](https://github.com/luck2901/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luck2901&layout=compact)](https://github.com/luck2901/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luck2901)](https://github.com/luck2901/github-readme-stats)
 
 <br/>
 
