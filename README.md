@@ -23,3 +23,4 @@
 ##  _📞 Contact_
 
 <img src="https://img.shields.io/badge/luck2901@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/luck2901@gmail.com-03C75A?style=flat-square&logo=Gmail&logoColor=white"/></a> 
